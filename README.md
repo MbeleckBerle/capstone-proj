@@ -1,2 +1,2 @@
 # Capstone-Project
-Capstone Project  - AIM course
+this is a sign language detection application
